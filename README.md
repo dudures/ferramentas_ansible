@@ -1,6 +1,6 @@
 # Ferramentas Desktop Linux
 
-Este repositŕio contem script para automatizar a preparação de um desktop Linux
+Este repositório contem script para automatizar a preparação de um desktop Linux
 
 
 > **_Disclaimer_** :  
