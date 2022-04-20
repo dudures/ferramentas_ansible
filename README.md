@@ -22,7 +22,7 @@ git clone git@github.com:dudures/ferramentas_ansible.git
 
 3. Aplicando as configurações
 ```bash
-ansible-playbook update_install_apps.yml --ask-become-pass
+ansible-playbook  ubuntu-workstation.yml --ask-become-pass
 ```
 >Insira sua senha quando forsolicitada.
 ___
